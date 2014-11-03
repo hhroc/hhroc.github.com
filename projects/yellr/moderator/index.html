@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Yellr - Moderator backend</title>
+  <meta name="description" content="Yellr backend moderation - Citizen engagement and journalism app">
+  <link rel="shortcut icon" href="img/favicon.ico">
+  <link rel="apple-touch-icon" href="img/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
+  <script src="js/libs/modernizr.js"></script>
+  <link rel="stylesheet" href="style/moderator.css">
+</head>
+<body id="moderator"><a href="#main" class="assistive-text">Skip to main content</a>
+  <div class="container">
+    <header id="header" class="header-footer">
+      <div class="wrapper">
+        <h1 id="h1">WXXI - yellr moderator-backend</h1>
+      </div>
+    </header>
+    <div id="main">
+      <div class="flex">
+        <nav id="tabs" class="flex-1">
+          <ul class="tabs-list">
+            <li id="current-tab"><a href="#" data-tab="1">Latest Submissions</a></li>
+            <li><a href="#" data-tab="2">Approved Submissions</a></li>
+            <li><a href="#" data-tab="3">Pending more info</a></li>
+            <li><a href="#" data-tab="4">Denied</a></li>
+          </ul>
+        </nav>
+        <div id="tab-content" class="flex-5">
+          <section id="latest-submissions" data-tab="1">
+            <ul class="grid">
+              <li class="row">
+                <ul class="row-list">
+                  <li class="story-item"><img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Merchandise</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Police Abuse</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">War Crimes</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                </ul>
+              </li>
+              <li class="row">
+                <ul class="row-list">
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">TV Station</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Concert Venue</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Missing Tire</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                </ul>
+              </li>
+              <li class="row">
+                <ul class="row-list">
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">New Coffee Shop</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Repeat Offendor</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Cat Video</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                </ul>
+              </li>
+              <li class="row">
+                <ul class="row-list">
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Lost Dog</p>
+                    <div class="options"><span><i class="fa fa-check">Approve</i></span><span><i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Broken Rail on Highway</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">No Representation</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </section>
+          <section id="approved-submissions" data-tab="2">
+            <ul class="grid">
+              <li class="row">
+                <ul class="row-list">
+                  <li class="story-item"><img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Merchandise</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Police Abuse</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">War Crimes</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                </ul>
+              </li>
+              <li class="row">
+                <ul class="row-list">
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">TV Station</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Concert Venue</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Missing Tire</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                </ul>
+              </li>
+              <li class="row">
+                <ul class="row-list">
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">New Coffee Shop</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Repeat Offendor</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Cat Video</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                </ul>
+              </li>
+              <li class="row">
+                <ul class="row-list">
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Lost Dog</p>
+                    <div class="options"><span><i class="fa fa-check">Approve</i></span><span><i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Broken Rail on Highway</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">No Representation</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </section>
+          <section id="pending-submissions" data-tab="3">
+            <ul class="grid">
+              <li class="row">
+                <ul class="row-list">
+                  <li class="story-item"><img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Merchandise</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Police Abuse</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">War Crimes</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                </ul>
+              </li>
+              <li class="row">
+                <ul class="row-list">
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">TV Station</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Concert Venue</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Missing Tire</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                </ul>
+              </li>
+              <li class="row">
+                <ul class="row-list">
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">New Coffee Shop</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Repeat Offendor</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Cat Video</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </section>
+          <section id="denied-submissions" data-tab="4">
+            <ul class="grid">
+              <li class="row">
+                <ul class="row-list">
+                  <li class="story-item"><img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Merchandise</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Police Abuse</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">War Crimes</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                </ul>
+              </li>
+              <li class="row">
+                <ul class="row-list">
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">TV Station</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Concert Venue</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                  <li class="story-item"> <img src="http://lorempixel.com/300/150">
+                    <p class="from">UID12301200139</p>
+                    <p class="story">Missing Tire</p>
+                    <div class="options"><span> <i class="fa fa-check">Approve</i></span><span> <i class="fa fa-edit">Edit</i></span><span><i class="fa fa-times">Reject</i></span></div>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </section>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="js/moderator.js"></script>
+</body></html>

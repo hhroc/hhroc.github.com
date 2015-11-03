@@ -1,0 +1,2317 @@
+{
+    "positions": [
+        {
+            "candidates": [
+                {
+                    "address": "S 42 Oakdale Dr Rochester, Ny, 14618", 
+                    "name": "Matthew D Nafus", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "O 105 Edgemere Dr Rochester, Ny, 14612", 
+                    "name": "Deborah A Indivino", 
+                    "parties": [
+                        "Democratic"
+                    ]
+                }, 
+                {
+                    "address": "N 3791 St Paul Blvd Rochester, Ny, 14617", 
+                    "name": "Ella Van Loon", 
+                    "parties": [
+                        "Democratic"
+                    ]
+                }, 
+                {
+                    "address": "T 55 Eastland Ave Rochester, Ny, 14618", 
+                    "name": "Joanne Leegant", 
+                    "parties": [
+                        "Democratic"
+                    ]
+                }, 
+                {
+                    "address": "O 56 Sutton Place Pittsford, Ny, 14534", 
+                    "name": "James J Piampiano", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "R 181 Kirkstone Pass Rochester, Ny, 14626", 
+                    "name": "Judy Sinclair", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Working Families", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "N 210 Pickering St Canandaigua, Ny, 14424", 
+                    "name": "Craig Doran", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Working Families", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "R 6 Grey Fawn Pittsford, Ny, 14534", 
+                    "name": "Bill Taylor", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Working Families", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "State Supreme Court Justice - 7Th Judicial District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "L 134 Monteroy Rd Rochester, Ny, 14618", 
+                    "name": "Sandy Frankel", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "O 58 Daley Blvd Rochester, Ny, 14617", 
+                    "name": "Cheryl Dinolfo", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "S 66 Mayflower Dr Rochester, Ny, 14618", 
+                    "name": "Rajesh Barnabas", 
+                    "parties": [
+                        "Green"
+                    ]
+                }
+            ], 
+            "name": "County Executive"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "O 67 Blue Ridge Rd Penfield, Ny, 14526", 
+                    "name": "Maritza C Buitrago", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "A 98 Angels Path Webster, Ny, 14580", 
+                    "name": "James A Vazzana", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Family Court Judge"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "T 120 Sandringham Rd Rochester, Ny, 14610", 
+                    "name": "Candice C Baker Leit", 
+                    "parties": [
+                        "Democratic"
+                    ]
+                }, 
+                {
+                    "address": "Y 1504 Fallen Leaf Ter Webster, Ny, 14580", 
+                    "name": "Sandra J Doorley", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "District Attorney"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "N 1584 Parma Corners Hilton Rd Spencerport, Ny, 14559", 
+                    "name": "Tina M Brown", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 1St District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "W 222 Ladue Rd Brockport, Ny, 14420", 
+                    "name": "Mike Rockow", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 2Nd District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "A 2417 West Side Dr North Chili, Ny, 14514", 
+                    "name": "John V Romagnola", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "O 17 Baymon Dr Rochester, Ny, 14624", 
+                    "name": "Tracy A Diflorio", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 3Rd District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "N 49 Denishire Dr Rochester, Ny, 14624", 
+                    "name": "Erik D Johnson", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "R 2758 Lyell Rd Rochester, Ny, 14606", 
+                    "name": "Frank Allkofer", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 4Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "E 8 Surrey Hill Ln Pittsford, Ny, 14534", 
+                    "name": "Karla Boyce", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 5Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "E 172 Dorsey Rd Rochester, Ny, 14616", 
+                    "name": "Richard A Beebe", 
+                    "parties": [
+                        "Democratic"
+                    ]
+                }, 
+                {
+                    "address": "O 221 Meadowbriar Rd Rochester, Ny, 14616", 
+                    "name": "Fred Ancello", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 6Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "I 82 Oak Bridge Way Rochester, Ny, 14612", 
+                    "name": "Brian E Marianetti", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 7Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "P 508 Pipeline Way Webster, Ny, 14580", 
+                    "name": "Matthew Terp", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 8Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "E 5 Cobblestone Xing Penfield, Ny, 14526", 
+                    "name": "Debbie Drawe", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 9Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "E 31 Monroe Ave Pittsford, Ny, 14534", 
+                    "name": "Anthony Daniele", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 10Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "N 3 Castle Gate Fairport, Ny, 14450", 
+                    "name": "Polly P Mohan", 
+                    "parties": [
+                        "Democratic"
+                    ]
+                }, 
+                {
+                    "address": "Y 27 Miles Ave Fairport, Ny, 14450", 
+                    "name": "Sean M Delehanty", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 11Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "E 44 Rochester St Scottsville, Ny, 14546", 
+                    "name": "Maggie Ridge", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "W 492 Bangs Rd Churchville, Ny, 14428", 
+                    "name": "Steve Brew", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 12Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "R 160 Murphy Pl West Henrietta, Ny, 14586", 
+                    "name": "Simeon I Banister", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "D 128 Aspen Look Dr Henrietta, Ny, 14467", 
+                    "name": "John Howland", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 13Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "X 75 Middlebrook Ln Rochester, Ny, 14618", 
+                    "name": "Justin F Wilcox", 
+                    "parties": [
+                        "Democratic", 
+                        "Independence"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 14Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "T 108 Rosebud Trl Webster, Ny, 14580", 
+                    "name": "George J Hebert", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 15Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "Y 44 Bayton Dr Rochester, Ny, 14622", 
+                    "name": "Michael J Bovay", 
+                    "parties": [
+                        "Democratic"
+                    ]
+                }, 
+                {
+                    "address": "E 123 Eastman Ests Rochester, Ny, 14622", 
+                    "name": "Joe Carbone", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Working Families", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 16Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "R 25 Clarington St Rochester, Ny, 14609", 
+                    "name": "Joseph D Morelle, Jr", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families", 
+                        "Independence"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 17Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "K 32 Whittlers Rdg Pittsford, Ny, 14534", 
+                    "name": "Dorothy A Styk", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "Y 760 Garnsey Rd Fairport, Ny, 14450", 
+                    "name": "Tanya Conley", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 18Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "R 91 Flower Dale Dr Rochester, Ny, 14626", 
+                    "name": "Kathleen A Taylor", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 19Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "E 38 Maida Dr Spencerport, Ny, 14559", 
+                    "name": "Mike Zale", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 20Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "O 369 Wisconsin St Rochester, Ny, 14609", 
+                    "name": "Mark S Muoio", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families", 
+                        "Independence"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 21St District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "X 31921 Rochester, Ny, 14603", 
+                    "name": "Vincent R Felder Po Box", 
+                    "parties": [
+                        "Democratic"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 22Nd District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "D 85 Newcroft Park Rochester, Ny, 14609", 
+                    "name": "James M Sheppard", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families", 
+                        "Independence"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 23Rd District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "H 24 Alliance Ave Rochester, Ny, 14620", 
+                    "name": "Joshua P Bauroth", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families", 
+                        "Independence"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 24Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "T 52 Dr Samuel Mccree Way Rochester, Ny, 14608", 
+                    "name": "John F Lightfoot", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families", 
+                        "Independence"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 25Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "N 55 Parkwood Rd Rochester, Ny, 14615", 
+                    "name": "Yversha M Roman", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "E 100 Dunsmere Dr Rochester, Ny, 14615", 
+                    "name": "Tony Micciche", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 26Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "S 323 Aldine St Rochester, Ny, 14619", 
+                    "name": "Lashay Harris", 
+                    "parties": [
+                        "Democratic", 
+                        "Independence"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 27Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "H 18 Fairview Hts Rochester, Ny, 14613", 
+                    "name": "Cindy Kaleh", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families", 
+                        "Independence"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 28Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "R 354 Randolph St Rochester, Ny, 14609", 
+                    "name": "Ernest S Flagler", 
+                    "parties": [
+                        "Democratic"
+                    ]
+                }
+            ], 
+            "name": "County Legislator - 29Th District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "R 25 Dr Samuel Mccree Way Rochester, Ny, 14608", 
+                    "name": "Stephen T Miller", 
+                    "parties": [
+                        "Democratic", 
+                        "Independence"
+                    ]
+                }
+            ], 
+            "name": "City Court Judge"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "L 42 Westminster Rd Rochester, Ny, 14607", 
+                    "name": "Elaine M Spaull", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families", 
+                        "Independence"
+                    ]
+                }, 
+                {
+                    "address": "O 100 Howard St Rochester, Ny, 14620", 
+                    "name": "Anthony Giordano", 
+                    "parties": [
+                        "Green"
+                    ]
+                }
+            ], 
+            "name": "Member Of City Council - East District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "X 90581 Rochester, Ny, 14609", 
+                    "name": "Michael A Patterson Po Box", 
+                    "parties": [
+                        "Democratic"
+                    ]
+                }
+            ], 
+            "name": "Member Of City Council - Northeast District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "D 45 Stutson St Rochester, Ny, 14612", 
+                    "name": "Molly Clifford", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families", 
+                        "Independence"
+                    ]
+                }, 
+                {
+                    "address": "E 82 Whitney St Rochester, Ny, 14611", 
+                    "name": "Dorothy A Paige", 
+                    "parties": [
+                        "Green"
+                    ]
+                }, 
+                {
+                    "address": "N 377 Jay St Rochester, Ny, 14611", 
+                    "name": "Of Nw Unite Perry Johnson", 
+                    "parties": [
+                        "Citizens"
+                    ]
+                }
+            ], 
+            "name": "Member Of City Council - Northwest District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "N 351 Inglewood Dr Rochester, Ny, 14619", 
+                    "name": "Adam C Mcfadden", 
+                    "parties": [
+                        "Democratic", 
+                        "Independence"
+                    ]
+                }, 
+                {
+                    "address": "E 647 S Clinton Ave Rochester, Ny, 14620", 
+                    "name": "Alex White", 
+                    "parties": [
+                        "Green"
+                    ]
+                }, 
+                {
+                    "address": "S 350 Clarissa St Rochester, Ny, 14608", 
+                    "name": "C Lewis Ann C Lewis", 
+                    "parties": [
+                        "Ann"
+                    ]
+                }
+            ], 
+            "name": "Member Of City Council - South District"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "S 703 Arnett Blvd Rochester, Ny, 14619", 
+                    "name": "Mary B Adams", 
+                    "parties": [
+                        "Democratic", 
+                        "Independence"
+                    ]
+                }, 
+                {
+                    "address": "K 358 Mulberry St Rochester, Ny, 14620", 
+                    "name": "Liz Hallmark", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "L 395 Canterbury Rd Rochester, Ny, 14607", 
+                    "name": "Willa Powell", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "S 115 Nunda Blvd Rochester, Ny, 14610", 
+                    "name": "Malik D Evans", 
+                    "parties": [
+                        "Democratic", 
+                        "Independence"
+                    ]
+                }, 
+                {
+                    "address": "T 864 S Goodman St Rochester, Ny, 14620", 
+                    "name": "Matthew J Mcdermott", 
+                    "parties": [
+                        "Working Families"
+                    ]
+                }
+            ], 
+            "name": "Commissioner Of Schools (4)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "E 186 Eastland Ave Rochester, Ny, 14618", 
+                    "name": "William W Moehle", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families", 
+                        "Independence"
+                    ]
+                }
+            ], 
+            "name": "Brighton Supervisor"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "N 131 Elmore Rd Rochester, Ny, 14618", 
+                    "name": "Daniel E Aman", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families", 
+                        "Independence"
+                    ]
+                }
+            ], 
+            "name": "Brighton Town Clerk"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "S 2670 Highland Ave Rochester, Ny, 14610", 
+                    "name": "Karen L Morris", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families", 
+                        "Independence"
+                    ]
+                }
+            ], 
+            "name": "Brighton Town Justice"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "R 118 Palmerston Rd Rochester, Ny, 14618", 
+                    "name": "Christopher K Werner", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families", 
+                        "Independence"
+                    ]
+                }, 
+                {
+                    "address": "O 570 Antlers Dr Rochester, Ny, 14618", 
+                    "name": "Jason S Diponzio", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families", 
+                        "Independence"
+                    ]
+                }
+            ], 
+            "name": "Brighton Member Of Town Council (2)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "G 2 Wheat Hl Rochester, Ny, 14624", 
+                    "name": "David J Dunning", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Chili Supervisor"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "I 891 Ballantyne Rd Scottsville, Ny, 14546", 
+                    "name": "Virginia L Ignatowski", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Chili Town Clerk"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "S 15 Girard Cir Rochester, Ny, 14624", 
+                    "name": "Kenneth R Kraus", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Chili Town Justice"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "Y 127 Attridge Rd Churchville, Ny, 14428", 
+                    "name": "Michael S Slattery", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "N 82 Loyalist Ave Rochester, Ny, 14624", 
+                    "name": "Jordon I Brown", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Chili Member Of Town Council (2)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "L 3605 Redman Rd Brockport, Ny, 14420", 
+                    "name": "Paul M Kimball", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Clarkson Supervisor"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "N 7341 W Ridge Rd Brockport, Ny, 14420", 
+                    "name": "Sharon S Mattison", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Clarkson Town Clerk"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "Z 2518 Lake Rd Hilton, Ny, 14468", 
+                    "name": "Christa L Filipowicz", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "H 59 Sherwood Dr Brockport, Ny, 14420", 
+                    "name": "Jackie Smith", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Clarkson Member Of Town Council (2)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "S 55 Kaye Park Ter Rochester, Ny, 14624", 
+                    "name": "Brenda L James", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "I 3363 Buffalo Rd Rochester, Ny, 14624", 
+                    "name": "Mark W Assini", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Gates Supervisor"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "I 18 Winter Hazel Ct Rochester, Ny, 14606", 
+                    "name": "Sam L Valleriani", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Gates Town Justice"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "Y 29 Burning Brush Dr Rochester, Ny, 14606", 
+                    "name": "William R Kiley", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "E 72 Pinto Run Spencerport, Ny, 14559", 
+                    "name": "Mark A Mcintee", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "O 18 Horatio Ln Rochester, Ny, 14624", 
+                    "name": "Steve Tucciarello", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "O 219 Spencerport Rd Rochester, Ny, 14606", 
+                    "name": "Christopher B Diponzio", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Gates Member Of Town Council (2)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "R 450 Red Spruce Ln Rochester, Ny, 14616", 
+                    "name": "Charles A Schiano, Jr", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Greece Town Justice"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "Y 15 Wycombe Pl Rochester, Ny, 14612", 
+                    "name": "Mike Barry", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Greece Member Of Town Council - Ward 1"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "F 516 Fetzner Rd Rochester, Ny, 14626", 
+                    "name": "Valencia S Metcalf", 
+                    "parties": [
+                        "Democratic"
+                    ]
+                }, 
+                {
+                    "address": "E 360 Picturesque Dr Rochester, Ny, 14616", 
+                    "name": "Brett C Granville", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Greece Member Of Town Council - Ward 2"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "N 46 Mountain Ash Dr Rochester, Ny, 14615", 
+                    "name": "Andrew J Conlon", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Greece Member Of Town Council - Ward 3"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "O 190 Talnuck Dr Rochester, Ny, 14612", 
+                    "name": "Diana M Christodaro", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Greece Member Of Town Council - Ward 4"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "S 1397 Brookedge Dr Hamlin, Ny, 14464", 
+                    "name": "Eric G Peters", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Hamlin Supervisor"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "N 616 Lake Road West Frk Hamlin, Ny, 14464", 
+                    "name": "Kathi A Rickman", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Hamlin Town Clerk"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "H 2025 Redman Rd Hamlin, Ny, 14464", 
+                    "name": "Paul S Rath", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Hamlin Town Justice"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "R 1732 Walker Lake Ontario Rd Hilton, Ny, 14468", 
+                    "name": "Martin C Maier", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "E 933 Hamlin Center Rd Hamlin, Ny, 14464", 
+                    "name": "David G Rose", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Hamlin Member Of Town Council (2)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "N 281 Butler Dr Pittsford, Ny, 14534", 
+                    "name": "Michael B Yudelson", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "E 6500 West Henrietta Rd Rush, Ny, 14543", 
+                    "name": "Jack W Moore", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "H 4637 East Henrietta Rd Henrietta, Ny, 14467", 
+                    "name": "Citizen Unity Glenda F Rudolph", 
+                    "parties": [
+                        "Gov'T &"
+                    ]
+                }
+            ], 
+            "name": "Henrietta Supervisor"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "K 63 Heather Dale Chase Henrietta, Ny, 14467", 
+                    "name": "John G Pericak", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "H 1332 Rush Henrietta T L Rd Rush, Ny, 14543", 
+                    "name": "James F Beikirch", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "Y 181 Woodleaf Pittsford, Ny, 14534", 
+                    "name": "Steven M Donsky", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Henrietta Town Justice (3)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "R 27 Glen Acre Dr Pittsford, Ny, 14534", 
+                    "name": "Robert Barley, Jr", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "D 32 Essex Dr Rochester, Ny, 14623", 
+                    "name": "Michael J Stafford", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "R 338 Bennington Hills Ct West Henrietta, Ny, 14586", 
+                    "name": "Scott M Adair", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "E 155 Cape Henry Trl West Henrietta, Ny, 14586", 
+                    "name": "M Rick Page", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Henrietta Member Of Town Council (2)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "O 360 Pinegrove Ave Rochester, Ny, 14617", 
+                    "name": "Adam J Bello", 
+                    "parties": [
+                        "Democratic", 
+                        "Conservative", 
+                        "Working Families", 
+                        "Independence"
+                    ]
+                }
+            ], 
+            "name": "Irondequoit Supervisor"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "N 3791 St Paul Blvd Rochester, Ny, 14617", 
+                    "name": "Nathan A Van Loon", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "I 281 Colebrook Dr Rochester, Ny, 14617", 
+                    "name": "Patrick K Russi", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Irondequoit Town Justice"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "E 15 Ridgewood Dr Rochester, Ny, 14622", 
+                    "name": "Nicole Hushla-Re", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "E 145 Washington Ave Rochester, Ny, 14617", 
+                    "name": "John Perticone", 
+                    "parties": [
+                        "Democratic", 
+                        "Conservative", 
+                        "Working Families", 
+                        "Independence"
+                    ]
+                }, 
+                {
+                    "address": "I 24 Chimayo Rd Rochester, Ny, 14617", 
+                    "name": "Tony Proietti", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "N 135 Carol Dr Rochester, Ny, 14617", 
+                    "name": "Gregory J Devlin", 
+                    "parties": [
+                        "Republican"
+                    ]
+                }
+            ], 
+            "name": "Irondequoit Member Of Town Council (2)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "T 46 Ontario St Honeoye Falls, Ny, 14472", 
+                    "name": "John D Moffitt", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Mendon Supervisor"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "E 215 Bulls Saw Mill Rd Honeoye Falls, Ny, 14472", 
+                    "name": "James P Merzke", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Mendon Town Clerk"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "R 36 Probst Rd Pittsford, Ny, 14534", 
+                    "name": "William P Fletcher", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Mendon Town Justice"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "S 43 Hampshire Ln Mendon, Ny, 14506", 
+                    "name": "Michael E Roberts", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "S 1 Barben Cir Mendon, Ny, 14506", 
+                    "name": "Thomas G Dubois", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Mendon Member Of Town Council 4 Year Term (2)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "N 143 Cheese Factory Rd Honeoye Falls, Ny, 14472", 
+                    "name": "John L Hagreen", 
+                    "parties": [
+                        "Republican", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Mendon Member Of Town Council 2 Year Term"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "H 217 Taylor Rd Honeoye Falls, Ny, 14472", 
+                    "name": "William E Smith", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Mendon Superintendent Of Highways"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "D 254 S Union St Spencerport, Ny, 14559", 
+                    "name": "Gay H Lenhard", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Ogden Supervisor"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "Y 157 Widger Rd Spencerport, Ny, 14559", 
+                    "name": "Noelle M Burley", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Ogden Town Clerk"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "O 10 Bauers Cv Spencerport, Ny, 14559", 
+                    "name": "Michael P Schiano", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Ogden Town Justice"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "Y 15 Canal Side Dr Spencerport, Ny, 14559", 
+                    "name": "David F Feeney", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "Y 484 Whittier Rd Spencerport, Ny, 14559", 
+                    "name": "Malcolm E Perry", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Ogden Member Of Town Council (2)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "H 254 North Ave Hilton, Ny, 14468", 
+                    "name": "James M Smith", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Parma Supervisor"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "R 1106 Peck Rd Hilton, Ny, 14468", 
+                    "name": "Richard E Alexander", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "O 29 Tallwood Dr Hilton, Ny, 14468", 
+                    "name": "Michael A Sciortino", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Working Families", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Parma Town Justice (2)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "O 195 Huffer Rd Hilton, Ny, 14468", 
+                    "name": "Gary L Comardo", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "N 311 Moul Rd Hilton, Ny, 14468", 
+                    "name": "Kyle D Mullen", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Parma Member Of Town Council (2)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "R 137 Collamer Rd Hilton, Ny, 14468", 
+                    "name": "Brian F Speer", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Parma Superintendent Of Highways"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "N 20 Woodside Dr Penfield, Ny, 14526", 
+                    "name": "Tony Lafountain", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Penfield Supervisor"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "R 4 Forest Grove Ct Penfield, Ny, 14526", 
+                    "name": "John P Lomenzo, Jr", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence"
+                    ]
+                }
+            ], 
+            "name": "Penfield Town Justice"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "N 71 Wheelock Rd Penfield, Ny, 14526", 
+                    "name": "Rob Quinn", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "L 161 Highledge Dr Penfield, Ny, 14526", 
+                    "name": "Linda W Kohl", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Penfield Member Of Town Council (2)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "N 2230 Turk Hill Rd Victor, Ny, 14564", 
+                    "name": "Ed Dunn", 
+                    "parties": [
+                        "Democratic"
+                    ]
+                }, 
+                {
+                    "address": "R 63 Heatherwood Rd Fairport, Ny, 14450", 
+                    "name": "Mike Barker", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence"
+                    ]
+                }
+            ], 
+            "name": "Perinton Supervisor"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "T 2 Caywood Ln Fairport, Ny, 14450", 
+                    "name": "Jennifer A West", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence"
+                    ]
+                }
+            ], 
+            "name": "Perinton Town Clerk"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "E 20 Towpath Trl Fairport, Ny, 14450", 
+                    "name": "Jane M Gabriele", 
+                    "parties": [
+                        "Democratic"
+                    ]
+                }, 
+                {
+                    "address": "K 56 Woodbury Way Fairport, Ny, 14450", 
+                    "name": "Thomas A Klonick", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence"
+                    ]
+                }
+            ], 
+            "name": "Perinton Town Justice"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "N 53 Kitty Hawk Dr Pittsford, Ny, 14534", 
+                    "name": "Erik B Nixon", 
+                    "parties": [
+                        "Democratic"
+                    ]
+                }, 
+                {
+                    "address": "Y 1031 Moseley Rd Fairport, Ny, 14450", 
+                    "name": "Sean M Leavy", 
+                    "parties": [
+                        "Democratic"
+                    ]
+                }, 
+                {
+                    "address": "Y 30 Brentwood Ln Fairport, Ny, 14450", 
+                    "name": "Joseph H Lafay", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence"
+                    ]
+                }, 
+                {
+                    "address": "E 5 Sylvan Gln Fairport, Ny, 14450", 
+                    "name": "Stephen C Van Vreede", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence"
+                    ]
+                }
+            ], 
+            "name": "Perinton Member Of Town Council (2)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "H 52 Washington Rd Pittsford, Ny, 14534", 
+                    "name": "William A Smith", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Pittsford Supervisor"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "R 25 Briar Patch Rd Rochester, Ny, 14618", 
+                    "name": "Matthew J Oconnor", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "R 33 Greylock Rdg Pittsford, Ny, 14534", 
+                    "name": "Katherine Bohne Munzinger", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Pittsford Member Of Town Council (2)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "A 434 Kendall Rd Churchville, Ny, 14428", 
+                    "name": "Brad Obrocta", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Riga Supervisor"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "Z 454 Betteridge Rd Churchville, Ny, 14428", 
+                    "name": "Scott K Okolowicz", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Riga Town Justice"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "E 77 Chiswick Dr Churchville, Ny, 14428", 
+                    "name": "David George", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "P 60 Baker St Churchville, Ny, 14428", 
+                    "name": "Cynthia L Jessop", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Riga Member Of Town Council (2)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "G 979 Rush West Rush Rd Rush, Ny, 14543", 
+                    "name": "Donald J Scheg", 
+                    "parties": [
+                        "Democratic"
+                    ]
+                }, 
+                {
+                    "address": "K 255 Five Points Rd Rush, Ny, 14543", 
+                    "name": "Cathleen M Frank", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "G 979 Rush West Rush Rd Rush, Ny, 14543", 
+                    "name": "Gov'T Donald J Scheg", 
+                    "parties": [
+                        "Lean"
+                    ]
+                }
+            ], 
+            "name": "Rush Supervisor"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "I 8085 West Henrietta Rd Rush, Ny, 14543", 
+                    "name": "Pamela J Bucci", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Rush Town Clerk"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "E 1920 Middle Rd Rush, Ny, 14543", 
+                    "name": "Thomas S Doupe", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Rush Town Justice"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "I 69 Rush West Rush Rd Rush, Ny, 14543", 
+                    "name": "David S Sluberski", 
+                    "parties": [
+                        "Democratic"
+                    ]
+                }, 
+                {
+                    "address": "R 5639 East Henrietta Rd Rush, Ny, 14543", 
+                    "name": "Daniel V Woolaver", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "E 16 Aprille Ln Rush, Ny, 14543", 
+                    "name": "Jillian Moore", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "I 69 Rush West Rush Rd Rush, Ny, 14543", 
+                    "name": "Gov'T David S Sluberski", 
+                    "parties": [
+                        "Lean"
+                    ]
+                }
+            ], 
+            "name": "Rush Member Of Town Council 4 Year Term (2)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "E 55 Rotzel Rd Rush, Ny, 14543", 
+                    "name": "Gerald W Kusse", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Rush Member Of Town Council - 2 Year Term"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "D 934 Rush West Rush Rd Rush, Ny, 14543", 
+                    "name": "Mark E David", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Rush Superintendent Of Highways"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "E 33 Adams St Brockport, Ny, 14420", 
+                    "name": "Annie Crane", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "S 33 Maxon St Brockport, Ny, 14420", 
+                    "name": "Robert A Carges", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Sweden Supervisor"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "G 6142 Lake Rd Brockport, Ny, 14420", 
+                    "name": "Lori Skoog", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "H 307 Main St Brockport, Ny, 14420", 
+                    "name": "Mary E Rich", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families"
+                    ]
+                }, 
+                {
+                    "address": "E 4664 County Line Rd Holley, Ny, 14470", 
+                    "name": "Peter T Sharpe", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "R 64 Fayette St Brockport, Ny, 14420", 
+                    "name": "Donald E Roberts, Jr", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Sweden Member Of Town Council (2)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "R 121 Erie St Brockport, Ny, 14420", 
+                    "name": "Kathleen A Bahr-Seever", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Sweden Receiver Of Taxes"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "M 64 Sweden Hill Rd Brockport, Ny, 14420", 
+                    "name": "Brian T Ingraham", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Sweden Superintendent Of Highways"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "T 1075 Railway Xing Webster, Ny, 14580", 
+                    "name": "Ronald W Nesbitt", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Webster Supervisor"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "E 66 East Main Street Webster, Ny, 14580", 
+                    "name": "David T Corretore", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Webster Town Justice"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "T 274 Beechwood Cres Webster, Ny, 14580", 
+                    "name": "William G Abbott", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "O 1361 Leurville Way Webster, Ny, 14580", 
+                    "name": "Alecia J Mazzo", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Webster Member Of Town Council (2)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "N 3 Genesee St Scottsville, Ny, 14546", 
+                    "name": "Linda M Dobson", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Wheatland Supervisor"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "I 4386 River Rd Scottsville, Ny, 14546", 
+                    "name": "Laurie B Czapranski", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Wheatland Town Clerk"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "X 119 Mumford, Ny, 14511", 
+                    "name": "Harold H Litteer, Jr P.O.Box", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Wheatland Town Justice"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "L 42 Rochester St Scottsville, Ny, 14546", 
+                    "name": "Carl L Schoenthal", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "N 715 Browns Rd Scottsville, Ny, 14546", 
+                    "name": "Gregory I Mullin", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Wheatland Member Of Town Council (2)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "I 117 Brizee St East Rochester, Ny, 14445", 
+                    "name": "Frederick L Ricci", 
+                    "parties": [
+                        "Democratic", 
+                        "Independence"
+                    ]
+                }
+            ], 
+            "name": "East Rochester Village Mayor"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "K 506 S Lincoln Rd East Rochester, Ny, 14445", 
+                    "name": "Mark A Florack", 
+                    "parties": [
+                        "Republican", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "I 417 West Ave East Rochester, Ny, 14445", 
+                    "name": "John R Alfieri", 
+                    "parties": [
+                        "Republican", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "East Rochester Village Trustee (2)"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "R 137 W Hickory St East Rochester, Ny, 14445", 
+                    "name": "Terrence C Brown-Steiner", 
+                    "parties": [
+                        "Democratic", 
+                        "Working Families", 
+                        "Independence"
+                    ]
+                }, 
+                {
+                    "address": "H 325 E Commercial St East Rochester, Ny, 14445", 
+                    "name": "Kimberly A Romach", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "East Rochester Town Justice"
+        }, 
+        {
+            "candidates": [
+                {
+                    "address": "K 116 W Church St Fairport, Ny, 14450", 
+                    "name": "H Kevin Clark", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }, 
+                {
+                    "address": "I 150 West Ave Fairport, Ny, 14450", 
+                    "name": "Debra D Tandoi", 
+                    "parties": [
+                        "Republican", 
+                        "Conservative", 
+                        "Independence", 
+                        "Reform"
+                    ]
+                }
+            ], 
+            "name": "Fairport Village Trustee (2)"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+<html>
+<head>
+
+    <title>Monroe County Election 2015</title>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'> 
+    
+    <link rel="stylesheet" href="foundation/css/foundation.css" />
+    
+    <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+
+    <style>
+        body {
+            cursor: auto;
+        }
+
+        label {
+            margin-bottom: .2rem;
+            cursor: auto !important;
+        }
+
+        h1 {
+            padding-top: 2rem;
+        }
+
+        .position {
+            border-top: 1px solid #444444;
+            padding-bottom: 1rem;
+        }
+
+        .candidate {
+            padding-left: 2rem;
+        }
+
+        .party {
+            margin-top: .2rem;
+            border: 1px solid #FFFFFF;
+            border-radius: 5px;
+            padding: .3rem;
+            display: inline;
+            color: #EEEEEE;
+        }
+
+        .democratic {
+            background-color: blue;
+        }
+
+        .working-families {
+            background-color: darkblue;
+        }
+
+        .conservative {
+            background-color: firebrick;
+        }
+
+        .independence {
+            background-color: maroon;
+        }
+
+        .republican {
+            background-color: red;
+        }
+
+        .green {
+            background-color: green;
+        }
+
+    </style>
+
+</head>
+<body>
+
+    <div class="row">
+        <div class="columns large-12">
+            <h1>Index of Positions</h1>
+            <div id="site-index"> 
+            </div>
+            <h1>Candidates by Positions</h1>
+            <div id="site-contents">
+                Loading ...
+            </div> 
+        </div>
+    </div>
+
+    <script src="foundation/js/vendor/jquery.js"></script>   
+    <script src="foundation/js/foundation/foundation.js"></script>
+    <script>
+        $(document).ready(function() {
+            var url = 'election2015.json';
+            $.getJSON(url, function(data) {
+                var positions = data.positions;
+                var index_html = '';
+                var html = '';
+                for(var i=0; i<positions.length; i++) {
+                    var position = positions[i];
+                    var inner_html = '';
+                    index_html += '<a href="#' + position.name.replace(' ', '-') + '">' + position.name + '</a></br>';
+                    inner_html += '<div class="position">';
+                    inner_html += '<a name="' + position.name.replace(' ', '-') + '"></a>';
+                    inner_html += '<h2>' + position.name + '</h2>';
+                    for(var j=0; j<position.candidates.length; j++) {
+                        var candidate = position.candidates[j];
+                        inner_html += '<div class="candidate">';
+                        inner_html += '<label>Name</label>';
+                        inner_html += '<h4>' + candidate.name + '</h4>';
+                        inner_html += '<label>Address</label>';
+                        inner_html += '<p>' + candidate.address + '</p>';
+                        inner_html += '<label>Website</label>';
+                        if ( candidate.website !== undefined )
+                            inner_html += '<p>' + candidate.website + '</p>';
+                        else
+                            inner_html += '<p></p>';
+                        inner_html += '<label>Party Endorsements</label>';
+                        for(var k=0; k<candidate.parties.length; k++) {
+                            var party = candidate.parties[k];
+                            inner_html += '<div class="party ' + party.toLowerCase().replace(' ', '-') + '">' + party + '</div>';
+                        }
+                        inner_html += '<hr>';
+                        inner_html += '</div>';
+                    }
+                    inner_html += '</div>';
+                    html += inner_html;
+                }
+                $('#site-index').html(index_html);
+                $('#site-contents').html(html);
+            });
+        });
+
+    </script>
+</body>
+</html>
